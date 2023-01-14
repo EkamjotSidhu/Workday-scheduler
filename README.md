@@ -17,6 +17,6 @@ WHEN I refresh the page</br>
 THEN the saved events persist</br>
 
 ## Usage
-To use the application go to following link https://note-app-111.herokuapp.com/
+To use the application go to following link https://ekamjotsidhu.github.io/Workday-scheduler/
 The image bellow shows the screenshot of the app
 ![alt text](Assets/Screenshot.jpg)
